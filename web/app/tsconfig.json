@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "./dist",
+        "module": "es6",
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "outDir": "./dist",
+        "target": "es5",
+        "strict": true,
+        "jsx": "react",
+    },
+    "types": ["ts", "js", "tsx", "jsx"],
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": ["node_modules"]
+}

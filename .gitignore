@@ -1,0 +1,6 @@
+.vscode
+node_modules
+web/static/app
+*_vfsdata.go
+main
+data
